@@ -1,4 +1,4 @@
-prospector mirror
+prospector mirror mypy
 =============
 
 Mirror of prospector package for pre-commit. Includes MyPy support.
